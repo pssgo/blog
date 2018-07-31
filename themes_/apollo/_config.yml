@@ -1,0 +1,19 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    Weibo: http://weibo.com
+    GitHub: https://github.com/pssgo
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+comment: true
+
+# Analytics
+# google-analytics:
+# ga: UA-xxxxxxxx-x
+
+# Copyright Infomation
+startyear: 2015
