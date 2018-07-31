@@ -38,4 +38,10 @@ func typeof(e interface) {
   }
 }
 
+// 还可以借助 reflect包 来进行类型判断
+// 当判断 struct和interface时 需要额外处理下  可能为 main.XXX  []main.XXX
+func typeof2(e interface) string {
+  return reflect.TypeOf(e)
+}
+
 ```
