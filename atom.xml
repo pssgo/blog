@@ -6,7 +6,7 @@
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://www.pssgo.com/"/>
-  <updated>2018-08-01T12:49:54.699Z</updated>
+  <updated>2018-08-03T12:45:20.730Z</updated>
   <id>https://www.pssgo.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>golang 学习文档</title>
+    <link href="https://www.pssgo.com/2018/08/03/golang-%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3/"/>
+    <id>https://www.pssgo.com/2018/08/03/golang-学习文档/</id>
+    <published>2018-08-03T12:29:22.000Z</published>
+    <updated>2018-08-03T12:45:20.730Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="列出一个学习清单吧"><a href="#列出一个学习清单吧" class="headerlink" title="列出一个学习清单吧"></a>列出一个学习清单吧</h2><blockquote><p>包括但不限于golang语言本身</p></blockquote><ul><li><a href="https://github.com/toml-lang/toml" target="_blank" rel="noopener">toml-lang</a>  一个轻巧的 配置文件语言</li><li><a href="https://github.com/gin-gonic/gin" target="_blank" rel="noopener">gin</a> go的一个web服务器框架  简单好用 速度快</li><li><a href="https://github.com/labstack/echo" target="_blank" rel="noopener">echo</a> web 服务器框架 速度可能比gin要更快一些，注释不是很全，主创是学生，可以去尝试</li><li><a href="https://github.com/coreos/etcd" target="_blank" rel="noopener">etcd</a> 基于go语言的键值存储数据库</li><li><a href="https://github.com/grpc/grpc-go" target="_blank" rel="noopener">grpc-go</a> gRpc的 go语言实现</li><li><a href="https://github.com/apidoc/apidoc" target="_blank" rel="noopener">apidoc</a> 简单好用的接口文档生成器</li><li><a href="https://github.com/swagger-api/swagger-ui" target="_blank" rel="noopener">swagger-ui</a> 文档生成器，酌情使用 代码入侵性强，</li></ul><blockquote><p>k8s 和docker 等 后续用到一点点学习吧 </p></blockquote><h2 id="书单"><a href="#书单" class="headerlink" title="书单"></a>书单</h2><ul><li>go 语言学习笔记</li><li>go 语言圣经</li><li>go 并发编程实战</li><li>go 开发实战</li><li>go 语言程序设计</li><li>go web编程</li><li>学习go语言</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;列出一个学习清单吧&quot;&gt;&lt;a href=&quot;#列出一个学习清单吧&quot; class=&quot;headerlink&quot; title=&quot;列出一个学习清单吧&quot;&gt;&lt;/a&gt;列出一个学习清单吧&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;包括但不限于golang语言本身&lt;/p&gt;
+&lt;/blockq
+      
+    
+    </summary>
+    
+    
+      <category term="golang" scheme="https://www.pssgo.com/tags/golang/"/>
+    
+  </entry>
   
   <entry>
     <title>golang类型判断</title>
